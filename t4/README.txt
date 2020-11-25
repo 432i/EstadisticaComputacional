@@ -1,0 +1,1 @@
+Ejecutar el notebook desde la primera celda desde arriba hacia abajo con el botón "Run".
